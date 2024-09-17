@@ -64,8 +64,7 @@
     },
     {
       "institution": "University of Edinburgh",
-      "area": "Computer Science",
-      "studyType": "MSc",
+      "studyType": "MSc Computer Science",
       "startDate": "2017",
       "endDate": "2018",
       "score": "75%",
@@ -76,8 +75,7 @@
     },
     {
       "institution": "University of Leeds",
-      "area": "Mathematics",
-      "studyType": "MSc",
+      "studyType": "MSc Mathematics",
       "startDate": "2015",
       "endDate": "2016",
       "score": "67%",
@@ -88,8 +86,7 @@
     },
     {
       "institution": "University of Brighton",
-      "area": "Mathematics with Finance",
-      "studyType": "BSc",
+      "studyType": "BSc Mathematics with Finance",
       "startDate": "2012",
       "endDate": "2015",
       "score": "75%"
@@ -98,7 +95,7 @@
   "awards": [
     {
       "title": "Deb Bose Prize for Best Mathematical Dissertation",
-      "date": "2015-07-01",
+      "date": "2015",
       "awarder": "University of Brighton",
       "summary": "Awarded for outstanding performance in mathematical dissertation."
     }
