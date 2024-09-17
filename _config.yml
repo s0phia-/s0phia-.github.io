@@ -451,7 +451,7 @@ vega-lite:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-# jekyll_get_json:
+jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 jsonresume:
