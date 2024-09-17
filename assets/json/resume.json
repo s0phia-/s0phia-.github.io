@@ -1,101 +1,161 @@
 {
-  "name": "Sophia Jones",
-  "title": "PhD Candidate – Reinforcement Learning",
-  "contact": {
+  "basics": {
+    "name": "Sophia Jones",
+    "label": "PhD Candidate – Reinforcement Learning",
+    "image": "",
     "email": "sj2073@bath.ac.uk",
-    "website": "https://s0phia-.github.io/",
-    "github": "https://github.com/s0phia-"
+    "summary": "Researching reinforcement learning with graph based methods in the UKRI CDT for Accountable, Responsible, and Transparent AI, under the supervision of Prof Özgür Şimşek.",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "s0phia-",
+        "url": "https://github.com/s0phia-"
+      },
+      {
+        "network": "Website",
+        "url": "https://s0phia-.github.io/"
+      }
+    ]
   },
-  "education": [
+  "work": [
     {
-      "degree": "PhD in Accountable, Responsible, & Transparent AI",
-      "institution": "University of Bath",
-      "period": "Sept 2021 - Present",
-      "details": [
-        "Researching reinforcement learning with graph based methods in the UKRI CDT for Accountable, Responsible, and Transparent AI, under the supervision of Prof Özgür Şimşek.",
-        "Research aims include achieving more efficient value function approximation, and agent explainability at a policy level.",
-        "Achieved 75% in the integrated MRes year.",
-        "Organise and host a popular reading group for the AI and ML department"
-      ]
-    },
-    {
-      "degree": "MSc Computer Science (Distinction)",
-      "institution": "University of Edinburgh",
-      "period": "Sept 2017 - Sept 2018",
-      "grade": "75%",
-      "details": [
-        "Studied modules relating to AI and theoretical computer science.",
-        "Dissertation judged outstanding. Contributed novel research in the field of randomised algorithms on graphs."
-      ]
-    },
-    {
-      "degree": "MSc Mathematics (Merit)",
-      "institution": "University of Leeds",
-      "period": "Sept 2015 - Sept 2016",
-      "grade": "67%",
-      "details": [
-        "Studied courses in pure mathematics and statistics."
-      ]
-    },
-    {
-      "degree": "BSc Mathematics with Finance (First Class)",
-      "institution": "University of Brighton",
-      "period": "Sept 2012 - July 2015",
-      "grade": "75%",
-      "details": [
-        "Won the Deb Bose Prize for Best Mathematical Dissertation.",
-        "Elected representative for students on my course."
-      ]
-    }
-  ],
-  "workExperience": [
-    {
+      "name": "Wayfair",
       "position": "Senior Operations Research Scientist",
-      "company": "Wayfair",
       "location": "Berlin",
-      "period": "May 2019 - Aug 2021",
-      "projects": [
+      "startDate": "2019-05-01",
+      "endDate": "2021-08-31",
+      "summary": "Developed forecasting systems and optimization algorithms for delivery operations.",
+      "highlights": [
         "Created a forecasting system to estimate the optimal delivery fleet size, achieving over 90% accuracy.",
         "Developed a novel algorithm using routing heuristics to find geographically optimal locations for delivery hubs."
       ]
     },
     {
+      "name": "Lloyds Banking Group",
       "position": "Credit Risk Analyst",
-      "company": "Lloyds Banking Group",
       "location": "Leeds",
-      "period": "April - Sept 2017",
-      "details": "Developed models to predict the total loss the bank may incur due to customers defaulting on mortgage payments."
+      "startDate": "2017-04-01",
+      "endDate": "2017-09-30",
+      "summary": "Developed models to predict the total loss the bank may incur due to customers defaulting on mortgage payments."
     },
     {
+      "name": "Simply Rational",
       "position": "Explainable AI consultant",
-      "company": "Simply Rational",
       "location": "Berlin",
-      "period": "August 2023",
-      "details": "Consulted on an explainable credit risk prediction project."
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-31",
+      "summary": "Consulted on an explainable credit risk prediction project."
     }
   ],
-  "teachingExperience": {
-    "tutoring": [
-      "Mathematics for Computation (University of Bath)",
-      "Cryptography (University of Bath)",
-      "Discrete Mathematics and Mathematical Reasoning (University of Edinburgh)"
-    ],
-    "courseCoLeader": [
-      "R Programming for Analytics (Wayfair)",
-      "Data Science with Python (Volunteer at Code Your Dreams)"
-    ],
-    "mscSupervision": [
-      "Comparison of Handcrafted and Autonomously Learned Hierarchical Reinforcement Learning Agents in Tetris (University of Bath)",
-      "Using Curriculum Learning Techniques with Deep Reinforcement Learning in Tetris (University of Bath)",
-      "Reinforcement Learning for Tetris using Options (University of Bath)"
-    ]
-  },
-  "awards": [
-    "Deb Bose Prize for Best Mathematical Dissertation (2015)"
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Bath",
+      "area": "Accountable, Responsible, & Transparent AI",
+      "studyType": "PhD",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "score": "75% in integrated MRes year",
+      "courses": [
+        "Reinforcement Learning",
+        "Graph-based Methods",
+        "AI Ethics"
+      ]
+    },
+    {
+      "institution": "University of Edinburgh",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2017-09-01",
+      "endDate": "2018-09-30",
+      "score": "75%",
+      "courses": [
+        "AI",
+        "Theoretical Computer Science"
+      ]
+    },
+    {
+      "institution": "University of Leeds",
+      "area": "Mathematics",
+      "studyType": "MSc",
+      "startDate": "2015-09-01",
+      "endDate": "2016-09-30",
+      "score": "67%",
+      "courses": [
+        "Pure Mathematics",
+        "Statistics"
+      ]
+    },
+    {
+      "institution": "University of Brighton",
+      "area": "Mathematics with Finance",
+      "studyType": "BSc",
+      "startDate": "2012-09-01",
+      "endDate": "2015-07-31",
+      "score": "75%"
+    }
   ],
-  "skills": {
-    "regularUse": ["Python", "PyTorch", "NumPy", "Matplotlib", "LaTeX"],
-    "pastProfessionalUse": ["Python", "R"],
-    "universityModules": ["MATLAB", "Java", "ROS"]
-  }
+  "awards": [
+    {
+      "title": "Deb Bose Prize for Best Mathematical Dissertation",
+      "date": "2015-07-01",
+      "awarder": "University of Brighton",
+      "summary": "Awarded for outstanding performance in mathematical dissertation."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "NumPy",
+        "Matplotlib",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Advanced",
+      "keywords": [
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Data Analysis",
+        "Statistical Modeling"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "Reinforcement Learning",
+        "Graph-based Methods",
+        "Explainable AI"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Reinforcement Learning with Graph-based Methods",
+      "summary": "Research project aiming to achieve more efficient value function approximation and agent explainability at a policy level.",
+      "highlights": [
+        "Exploiting complex graphical structures generated by RL agent-environment interactions",
+        "Developing novel algorithms for improved RL performance"
+      ],
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "url": ""
+    }
+  ]
 }
