@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sophia Jones",
-    "label": "PhD Candidate – Reinforcement Learning",
+    "label": "PhD Candidate in Reinforcement Learning",
     "image": "",
     "email": "sj2073@bath.ac.uk",
     "summary": "Researching reinforcement learning with graph based methods in the UKRI CDT for Accountable, Responsible, and Transparent AI, under the supervision of Prof Özgür Şimşek.",
@@ -51,8 +51,7 @@
   "education": [
     {
       "institution": "University of Bath",
-      "area": "Accountable, Responsible, & Transparent AI",
-      "studyType": "PhD",
+      "studyType": "PhD in Reinforcement Learning",
       "startDate": "2021-09-01",
       "endDate": "Present",
       "score": "75% in integrated MRes year",
@@ -64,8 +63,7 @@
     },
     {
       "institution": "University of Edinburgh",
-      "area": "Computer Science",
-      "studyType": "MSc",
+      "studyType": "MSc Computer Science",
       "startDate": "2017-09-01",
       "endDate": "2018-09-30",
       "score": "75%",
@@ -76,8 +74,7 @@
     },
     {
       "institution": "University of Leeds",
-      "area": "Mathematics",
-      "studyType": "MSc",
+      "studyType": "MSc Mathematics",
       "startDate": "2015-09-01",
       "endDate": "2016-09-30",
       "score": "67%",
@@ -87,8 +84,7 @@
     },
     {
       "institution": "University of Brighton",
-      "area": "Mathematics with Finance",
-      "studyType": "BSc",
+      "studyType": "BSc Mathematics with Finance",
       "startDate": "2012-09-01",
       "endDate": "2015-07-31",
       "score": "75%"
