@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: https://github.com/s0phia-/s0phia-.github.io/blob/master/assets/pdf/Academic_CV.pdf
+cv_pdf: https://s0phia-.github.io/CV.pdf
 description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
