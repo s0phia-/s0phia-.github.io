@@ -58,7 +58,6 @@ nav_order: 5
     </style>
 </head>
 <body>
-    <h1>Sophia Jones</h1>
     
     <div class="contact-info">
         <a href="mailto:sj2073@bath.ac.uk" title="Email"><i class="fas fa-envelope"></i></a>
