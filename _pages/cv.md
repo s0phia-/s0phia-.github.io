@@ -58,13 +58,6 @@ nav_order: 5
     </style>
 </head>
 <body>
-    
-    <div class="contact-info">
-        <a href="mailto:sj2073@bath.ac.uk" title="Email"><i class="fas fa-envelope"></i></a>
-        <a href="https://s0phia-.github.io/" title="Website"><i class="fas fa-globe"></i></a>
-        <a href="https://github.com/s0phia-" title="GitHub"><i class="fab fa-github"></i></a>
-    </div>
-
     <h2>Education</h2>
     <h3>PhD in Reinforcement Learning </h3>
     <p><strong>University of Bath</strong> <span class="date">Sept 2021 - Present</span></p>
