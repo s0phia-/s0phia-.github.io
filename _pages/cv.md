@@ -63,7 +63,7 @@ nav_order: 5
     <p><strong>University of Bath</strong> <span class="date">Sept 2021 - Present</span></p>
     <ul>
         <li>Researching reinforcement learning with graph based methods in the UKRI CDT for Accountable, Responsible, and Transparent AI, under the supervision of Prof Özgür Şimşek.</li>
-        <li>My research deconstructs existing reinforcement learning policies by breaking them down into their component parts. For example, a policy for baking a cake might be decomposed into steps such as: weighing ingredients; mixing batter; and placing the cake in the oven. My research has two aims: the first is to use the behavioural decomposition to produce explanations for policies, and the second is to extract useful behaviour components for use in new tasks.</li>
+        <li>My research deconstructs reinforcement learning policies, which are strategies that guide how an agent takes actions to achieve a goal. The policies are deconstructed into subtasks, for example a policy for making tea might be decomposed into the steps: boil water; place a teabag in a cup; pour water over the teabag. My research has two aims: the first is to deconstruct existing policies into subtasks to provide an explanation of how the overall policy will behave, and the second is to extract useful subtasks that might be transferred to new tasks.</li>
         <li>Achieved 75% in the integrated MRes year.</li>
         <li>Organise and host a popular reading group for the AI and ML department.</li>
     </ul>
