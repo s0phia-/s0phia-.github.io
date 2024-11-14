@@ -10,4 +10,3 @@ toc:
   sidebar: left
 ---
 
-Please find my CV <a href="s0phia-.github.io/assets/pdf/CV.pdf">here</a>.
