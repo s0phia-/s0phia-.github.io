@@ -169,4 +169,5 @@ Please find a PDF version of my CV <a href="https://s0phia-.github.io/assets/pdf
         <li><strong>Past professional use:</strong> Python, R</li>
         <li><strong>University Modules:</strong> MATLAB, Java, ROS</li>
     </ul>
+    <br><br><br>
 </body>
