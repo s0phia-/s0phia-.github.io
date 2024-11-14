@@ -14,8 +14,6 @@ nav_order: 6
 <h4><b> Tutor </b></h4>
 <p> Cryptography (2024) </p>
 <p> Mathematics for Computation (2024) </p>
-
-<h4><b> Marker </b></h4>
 <p> Reinforcement learning (2024) </p>
 <p> Mathematics for Computation (2024) </p>
 
