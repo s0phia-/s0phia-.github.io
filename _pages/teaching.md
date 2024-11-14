@@ -2,11 +2,40 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h2> University of Bath </h2>
 
-Organize your courses by years, topics, or universities, however you like!
+<h4><b> Supervisor </b></h4>
+<p> Reinforcement learning for Tetris (2024) </p>
+
+<h4><b> Tutor </b></h4>
+<p> Cryptography (2024) </p>
+<p> Mathematics for Computation (2024) </p>
+
+<h4><b> Marker </b></h4>
+<p> Reinforcement learning (2024) </p>
+<p> Mathematics for Computation (2024) </p>
+
+<br>
+
+<h2> University of Edinburgh </h2>
+
+<h4><b> Tutor and marker </b></h4>
+<p> Discrete Mathematics and Mathematical Reasoning (2017) </p>
+
+<br>
+
+<h2> Code Your Dreams </h2>
+
+<h4><b> Volunteer Instructor </b></h4>
+<p> Python for Data Science (2024) </p>
+
+<br>
+
+<h2> Wayfair </h2>
+
+<h4><b> Course co-leader </b></h4>
+<p> R Programming for Analytics </p>
