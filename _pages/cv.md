@@ -6,9 +6,9 @@ nav: true
 nav_order: 5
 ---
 
-<style>
+  <style>
     @keyframes rainbow {
-      0% { color: #ff0000; }
+      0% { color: linear-gradient(to right, #ff0000, #ff4000); }
       8.33% { color: #ff4000; }
       16.67% { color: #ff8000; }
       25% { color: #ffbf00; }
@@ -20,7 +20,7 @@ nav_order: 5
       75% { color: #00ff40; }
       83.33% { color: #00ff80; }
       91.67% { color: #00ffbf; }
-      100% { color: #00ffff; }
+      100% { color: linear-gradient(to right, #00ffff, #ff0000); }
     }
 
     #rainbow-link {
@@ -29,5 +29,5 @@ nav_order: 5
     }
   </style>
   
-Please find my CV <a href="https://s0phia-.github.io/assets/pdf/CV.pdf" id="rainbow-link>here</a>.
+Please find my CV <a href="https://s0phia-.github.io/assets/pdf/CV.pdf" id="rainbow-link">here</a>.
 
