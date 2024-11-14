@@ -21,7 +21,7 @@ nav_order: 6
 
 <h2> University of Edinburgh </h2>
 
-<h4><b> Tutor and marker </b></h4>
+<h4><b> Tutor </b></h4>
 <p> Discrete Mathematics and Mathematical Reasoning (2017) </p>
 
 <br>
