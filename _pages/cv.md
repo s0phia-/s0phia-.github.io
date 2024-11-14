@@ -6,30 +6,28 @@ nav: true
 nav_order: 5
 ---
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rainbow Link</title>
-  <style>
-    @keyframes rainbow {
-      0% { color: #ff0000; }
-      16.67% { color: #ff8000; }
-      33.33% { color: #ffff00; }
-      50% { color: #80ff00; }
-      66.67% { color: #00ff00; }
-      83.33% { color: #00ff80; }
-      100% { color: #ff0000; }
-    }
+<style>
+  @keyframes rainbow {
+    0% { color: #ff0000; }
+    8.33% { color: #ff4000; }
+    16.67% { color: #ff8000; }
+    25% { color: #ffbf00; }
+    33.33% { color: #ffff00; }
+    41.67% { color: #bfff00; }
+    50% { color: #80ff00; }
+    58.33% { color: #40ff00; }
+    66.67% { color: #00ff00; }
+    75% { color: #00ff40; }
+    83.33% { color: #00ff80; }
+    91.67% { color: #00ffbf; }
+    100% { color: #00ffff; }
+  }
 
-    a {
-      font-size: 24px;
-      text-decoration: none;
-      animation: rainbow 5s linear infinite;
-    }
-  </style>
-</head>
-<body>
-  Please find my CV <a href="https://s0phia-.github.io/assets/pdf/CV.pdf">here</a>.
-</body>
-</html>
+  a {
+    font-size: 24px;
+    text-decoration: none;
+    animation: rainbow 3s linear infinite;
+  }
+</style>
+Please find my CV <a href="https://s0phia-.github.io/assets/pdf/CV.pdf">here</a>.
+
