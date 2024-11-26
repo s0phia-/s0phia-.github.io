@@ -92,24 +92,24 @@ Please find a PDF version of my CV <a href="https://s0phia-.github.io/assets/pdf
     <ul>
         <li>Researching reinforcement learning with graph based methods in the UKRI CDT for Accountable, Responsible, and Transparent AI, under the supervision of Prof Özgür Şimşek.</li>
         <li>My research deconstructs reinforcement learning policies, which are strategies that guide how an agent takes actions to achieve a goal. The policies are deconstructed into subtasks, for example a policy for making tea might be decomposed into the steps: boil water; place a teabag in a cup; pour water over the teabag. My research has two aims: the first is to deconstruct existing policies into subtasks to provide an explanation of how the overall policy will behave, and the second is to extract useful subtasks that might be transferred to new tasks.</li>
-        <li>Achieved 75% in the integrated MRes year.</li>
+        <li>Achieved distinction in the integrated MRes year.</li>
         <li>Organise and host a popular reading group for the AI and ML department.</li>
     </ul>
 
-    <h3>MSc Computer Science (Distinction, 75%)</h3>
+    <h3>MSc Computer Science (Distinction)</h3>
     <p><strong>University of Edinburgh</strong> <span class="date">Sept 2017 - Sept 2018</span></p>
     <ul>
         <li>Studied modules relating to AI and theoretical computer science.</li>
         <li>Dissertation judged outstanding. Contributed novel research in the field of randomised algorithms on graphs. Available online <a href="https://project-archive.inf.ed.ac.uk/msc/20183073/msc_proj.pdf">here</a>.</li>
     </ul>
 
-    <h3>MSc Mathematics (Merit, 67%)</h3>
+    <h3>MSc Mathematics (Merit)</h3>
     <p><strong>University of Leeds</strong> <span class="date">Sept 2015 - Sept 2016</span></p>
     <ul>
         <li>Studied courses in pure mathematics and statistics.</li>
     </ul>
 
-    <h3>BSc Mathematics with Finance (First Class, 75%)</h3>
+    <h3>BSc Mathematics with Finance (First Class)</h3>
     <p><strong>University of Brighton</strong> <span class="date">Sept 2012 - July 2015</span></p>
     <ul>
         <li>Won the Deb Bose Prize for Best Mathematical Dissertation.</li>
@@ -136,6 +136,7 @@ Please find a PDF version of my CV <a href="https://s0phia-.github.io/assets/pdf
     <h2>Teaching Experience</h2>
     <h3>Tutoring</h3>
     <ul>
+        <li>Reinforcement Learning (University of Bath)</li>
         <li>Mathematics for Computation (University of Bath)</li>
         <li>Cryptography (University of Bath)</li>
         <li>Discrete Mathematics and Mathematical Reasoning (University of Edinburgh)</li>
@@ -166,7 +167,7 @@ Please find a PDF version of my CV <a href="https://s0phia-.github.io/assets/pdf
     <h2>Skills</h2>
     <ul>
         <li><strong>Regular Use:</strong> Python, PyTorch, NumPy, Matplotlib, LaTeX</li>
-        <li><strong>Past professional use:</strong> Python, R</li>
+        <li><strong>Past professional use:</strong> Python, R, SQL</li>
         <li><strong>University Modules:</strong> MATLAB, Java, ROS</li>
     </ul>
     <br><br><br>
