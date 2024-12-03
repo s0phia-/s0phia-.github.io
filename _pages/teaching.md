@@ -12,7 +12,6 @@ nav_order: 6
 <p> Cryptography (2024) </p>
 <p> Mathematics for Computation (2024) </p>
 <p> Reinforcement learning (2024) </p>
-<p> Mathematics for Computation (2024) </p>
 
 <h4><b> Project supervisor </b></h4>
 <p> Comparison of Handcrafted and Autonomously Learned Hierarchical Reinforcement Learning Agents in Tetris (2024) </p>
